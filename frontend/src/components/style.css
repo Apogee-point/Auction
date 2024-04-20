@@ -1,0 +1,9 @@
+.my-carousel .carousel .slide.selected .my-carousel-image {
+    width: 300px;
+    height: 300px;
+  }
+  
+  .my-carousel .carousel .slide .my-carousel-image {
+    width: 100px;
+    height: 100px;
+  }

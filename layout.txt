@@ -1,0 +1,24 @@
+
+Layout:
+
+* Introduction
+* How the auction works
+* Types of auctions
+* Bidding and buying
+* Selling on the auction website
+* Safety and security measures
+* Contact information
+
+Firebase:
+- [ ] User authentication data (email, password, etc.)
+- [ ] Real-time bidding data (e.g. bid amounts, time stamps, user IDs)
+- [ ] Server-less functions for handling real-time bidding and sending notifications
+- [ ] User profile data (e.g. display name, profile picture)
+MongoDB:
+- [ ] Item data (e.g. item name, description, images)
+- [ ] Auction history data (e.g. past winning bids, auction start and end times)
+- [ ] User data (e.g. user preferences, saved items)
+MySQL:
+- [ ] Transactional data (e.g. payment information, shipping addresses)
+- [ ] Order history data (e.g. past orders, order status updates)
+- [ ] Item inventory data (e.g. item stock levels, supplier information)
